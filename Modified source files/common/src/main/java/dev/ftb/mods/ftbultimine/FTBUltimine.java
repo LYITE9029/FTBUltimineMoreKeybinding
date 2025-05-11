@@ -20,8 +20,8 @@ import dev.ftb.mods.ftbultimine.net.SyncUltimineTimePacket;
 import dev.ftb.mods.ftbultimine.net.SyncUltimineTimePacket.TimeType;
 import dev.ftb.mods.ftbultimine.shape.*;
 /*========== here ==========*/
-import lyite9029.ftbultimine_more_keybinding.FTBUltimineMoreKeybinding;
-import lyite9029.ftbultimine_more_keybinding.net.SendUseSetPacket;
+import common.src.main.java.lyite9029.ftbultimine_more_keybinding.FTBUltimineMoreKeybinding;
+import common.src.main.java.lyite9029.ftbultimine_more_keybinding.net.SendUseSetPacket;
 /*========== here ==========*/
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;

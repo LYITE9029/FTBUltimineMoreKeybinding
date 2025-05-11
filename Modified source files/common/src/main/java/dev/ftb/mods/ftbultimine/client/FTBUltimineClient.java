@@ -24,8 +24,8 @@ import dev.ftb.mods.ftbultimine.net.ModeChangedPacket;
 import dev.ftb.mods.ftbultimine.shape.ShapeRegistry;
 import dev.ftb.mods.ftbultimine.utils.ShapeMerger;
 /*========== here ↓==========*/
-import lyite9029.ftbultimine_more_keybinding.ShortcutKeyManager;
-import lyite9029.ftbultimine_more_keybinding.net.ModeSetPacket;
+import common.src.main.java.lyite9029.ftbultimine_more_keybinding.ShortcutKeyManager;
+import common.src.main.java.lyite9029.ftbultimine_more_keybinding.net.ModeSetPacket;
 /*========== here ↑==========*/
 import net.minecraft.ChatFormatting;
 import net.minecraft.client.Camera;
