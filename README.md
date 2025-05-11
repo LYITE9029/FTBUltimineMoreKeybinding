@@ -1,1 +1,3 @@
 # FTBUltimineMoreKeybinding
+
+今の環境だとmoddingができないのでいったん凍結
